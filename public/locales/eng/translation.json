@@ -1,0 +1,105 @@
+{
+  "car": {
+    "title": "You can book any car from this list",
+    "year": "Year",
+    "price": "Price",
+    "description": "Description",
+    "locate":"Location"
+  },
+  "header": {
+    "createCar":"Create",
+    "panel": "Panel",
+    "cars": "Cars",
+    "review": "Reviews",
+    "booking": "Booking",
+    "cabinet": "Personal account",
+    "enter": "Log in"
+  },
+  "login": {
+    "hello": "Welcome to ",
+    "registration": "Don't have an account? Register ",
+    "here": "here",
+    "enter": "Log in"
+  },
+  "registration": {
+    "hello": "Welcome to ",
+    "registration": "Do you already have an account? Come in ",
+    "here": "here",
+    "registr": "Register",
+    "enterName": "Enter your name",
+    "enterEmail": "Enter your email",
+    "enterPhone": "Enter your phone",
+    "enterPassword": "Enter your password"
+  },
+  "review": {
+    "userReviews": "User reviews",
+    "allReviews": "All reviews",
+    "here": "Put your feedback here!",
+    "enterNeed": "Log in to set review",
+    "send": "Send"
+  },
+  "cabinet": {
+    "userCabinet": "Personal account",
+    "helloUser": "Hello, ",
+    "logOff": "Log out",
+    "userRecordings": "Your records",
+    "dates": "Dates",
+    "price": "Prices",
+    "makeBooking": "Book"
+  },
+  "booking": {
+    "onlineBookingH1": "Online booking",
+    "chooseVar": "Choose the options : ",
+    "chooseStartDate": "Choose a start date",
+    "chooseEndDate": "Choose an end date",
+    "chooseStartAddress": "Choose a starting address",
+    "chooseEndAddress": "Choose an end address",
+    "chooseCarName": "Choose a car name",
+    "letBooking": "Book"
+  },
+  "main": {
+    "platform": "Yotor - a platform for quick car reservations anywhere in the world"
+    
+  },
+  "createCar": {
+    "createCar":"Create",
+    "createCarH1":"Here you can create a new car",
+    "enterModel": "Enter model",
+    "enterBrand": "Enter brand",
+    "enterYear": "Enter year",
+    "enterTransmission": "Enter transmission",
+    "enterAddress": "Enter address",
+    "enterCity": "Enter city",
+    "enterType": "Enter type",
+    "enterPrice": "Enter price",
+    "enterPhoto": "Enter path",
+    "enterDescription": "Enter descriprion",
+    "enterNumber": "Enter number"
+  },
+  "alert":{
+    "successfully":"Successfully!",
+    "check":"Check the entered data!",
+    "sys":"Check the system settings",
+    "taken":"This car is already taken"
+  },
+  "panel":{
+    "organization":"Organizations",
+    "restriction":"Restrictions",
+    "feedback":"Feedbacks",
+    "database":"Database",
+    "create":"Create",
+    "list":"List",
+    "save":"Save",
+    "cancel":"Cancel",
+    "createBackup":"Create Backup",
+    "restore":"Restore",
+    "edit":"Edit",
+    "delete":"Delete"
+  },
+  "carD":{
+    "description":"Description",
+    "site":"Site",
+    "price":"Price",
+    "year":"Year"
+  }
+}

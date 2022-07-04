@@ -1,0 +1,160 @@
+.review {
+    background-color: #DAC5B5;
+    
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-size: 18%;
+    background-position: top;
+}
+
+.h1 {
+    color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.row {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    margin-bottom: 50px;
+}
+
+.row1 {
+   
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    margin-bottom: 5px;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #83583A;
+    
+}
+.namereite{
+    display: flex;
+    align-items: center;
+    border: 1px dashed brown;
+    border-radius: 10px;
+}
+.allh2{
+    margin-bottom: 10px;
+}
+.namerewiew{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.col6 {
+    width: 50%;
+    margin-right: 100px;
+}
+
+.blockleft {
+    background: rgba(255, 255, 255, 0.38);
+    backdrop-filter: blur(5px);
+    border-radius: 24px 0px 0px 24px;
+    height: 500px;
+    padding-top: 5px;
+}
+
+.blockright {
+    background: rgba(255, 255, 255, 0.38);
+    backdrop-filter: blur(5px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 0px 24px 24px 0px;
+    height: 500px;
+}
+.scroll{
+    overflow-y: scroll;
+    height: 400px;
+}
+
+
+.lefttop {
+    background: #FFFFFF;
+    box-shadow: 0px 40px 30px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    height: auto;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+}
+
+.namereview {
+    color: #83583A;
+}
+
+
+.rowhot{
+    display: flex;
+    margin-left: auto;
+}
+.hotline{
+    width: 15px;
+    height: 20px;
+    margin-right: 5px;
+  
+}
+
+.textreview{
+    width: 92%;
+    color: 
+    #83583A;
+    margin-left: auto;margin-right: auto;
+    font-size: 16px;
+    margin-top: 10px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-bottom: 15px;
+}
+
+
+
+.blockright{
+    padding-top: 50px;
+    padding-bottom: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+}
+
+.getreview{
+    color:   #0F0F0F;
+}
+
+.h6login{
+    color:   #2b2b2b;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+
+.inputlogin{
+    background-color: transparent;
+    color: #828282;
+    padding: 10px 15px;
+        width: 85%;
+        margin-bottom: 20px;
+border: 1px solid #0F0F0F;
+border-radius: 8px;
+}
+
+.send{
+    color: #83583A;
+    background: conic-gradient(from -3.29deg at 100% -13%, #FFF9F1 0deg, #FFFFFF 360deg);
+box-shadow: 0px 0px 30px rgba(255, 127, 80, 0.5);
+border-radius: 10px;
+border: none;
+width: 80%;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 5px;
+}
+
+.stars{
+    margin-left: auto;
+    margin-right: 15px;
+}
